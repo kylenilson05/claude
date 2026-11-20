@@ -1,1 +1,5 @@
 date_added,becker_section,topic,subtopic,question_type,error_type,rule_needed,times_missed
+2026-11-20,F1,Stockholders' equity,Book value per common share,MCQ,formula or rule,"Subtract preferred at its liquidation value (not par) plus all cumulative dividends in arrears, including the current year, from total equity; divide the rest by common shares outstanding.",1
+2026-11-20,F1,Stockholders' equity,Property dividends,MCQ,concept gap,"Remeasure the asset to fair value at the declaration date and book the gain or loss in income; the dividend is recorded at that fair value, so the net hit to retained earnings equals the asset's carrying value.",1
+2026-11-20,F1,EPS,Weighted-average shares (splits and stock dividends),MCQ,formula or rule,"Stock splits and stock dividends are applied retroactively to all shares outstanding before them, as if they happened at the start of the year; they are not time-weighted from the split date.",1
+2026-11-20,F2,Ratio analysis,Days sales in A/R,MCQ,misread,"Days sales in A/R = ending net A/R ÷ (net sales ÷ 365); average A/R is used for A/R turnover, not for this ratio.",1
